@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "anonxxx",
+        "comment": "my friend says they're real!",
+        "request": false
+    },
+    {
+        "id": 2,
+        "username": "ichiban neko fan",
+        "comment": "there's this guy, ryoko aino, who keeps on beating cats...",
+        "request": true
+    },
+    {
+        "id": 3,
+        "username": "karasu",
+        "comment": "AGAIN, YAAAAAAS!",
+        "request": false
+    },
+    {
+        "id": 4,
+        "username": "-",
+        "comment": "destroy all evil!",
+        "request": false
+    }
+]

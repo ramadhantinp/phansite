@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn-a {
+        @apply -rotate-6 skew-y-3 border-x-4 border-y-8 px-4 py-2 mx-3
+        hover:scale-90 transition
+    }
+
+    .btn-b {
+        @apply rotate-3 -skew-x-12 border-x-8 border-y-[3px] px-4 py-2 mx-3
+        hover:scale-90 transition
+    }
+
+    .btn-c {
+        @apply rotate-3 skew-x-12 border-y-4 border-x-8 px-4 py-2 mx-3
+        hover:scale-90 transition
+    }
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "codename": "Joker",
+        "status": 1,
+        "icon": "/assets/member-icons/Levelup_joker.png",
+        "alt": "Joker icon"
+    },
+    {
+        "id": 2,
+        "codename": "Mona",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Morgana.png",
+        "alt": "Mona icon"
+    },
+    {
+        "id": 3,
+        "codename": "Skull",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Ryuji.png",
+        "alt": "Skull icon"
+    },
+    {
+        "id": 4,
+        "codename": "Phanter",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Ann.png",
+        "alt": "Phanter icon"
+    },
+    {
+        "id": 5,
+        "codename": "Fox",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Yusuke.png",
+        "alt": "Fox icon"
+    },
+    {
+        "id": 6,
+        "codename": "Queen",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Makoto.png",
+        "alt": "Queen icon"
+    },
+    {
+        "id": 7,
+        "codename": "Oracle",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Futaba.png",
+        "alt": "Oracle icon"
+    },
+    {
+        "id": 8,
+        "codename": "Noir",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Haru.png",
+        "alt": "Noir icon"
+    },
+    {
+        "id": 9,
+        "codename": "Crow",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Akechi.png",
+        "alt": "Crow icon"
+    },
+    {
+        "id": 10,
+        "codename": "Violet",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Sumire.png",
+        "alt": "Violet icon"
+    },
+    {
+        "id": 11,
+        "codename": "Sophie",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Sophia.png",
+        "alt": "Sophie icon"
+    },
+    {
+        "id": 12,
+        "codename": "Wolf",
+        "status": 0,
+        "icon": "assets/member-icons/Levelup_Zenkichi.png",
+        "alt": "Wolf icon"
+    }
+]
