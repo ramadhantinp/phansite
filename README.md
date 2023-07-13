@@ -1,7 +1,7 @@
 # Phansite Mock Up
-Like the description says, this is my attempt in making the front-end for Phansite, a fictional forum web that appears in the JRPG Persona 5. If you're not familiar with the game, Phansite is a forum where people can request for help to the main character (The Phantom Thieves) and talk about the latest scandal/news in Japan. The site itself is made with React and Tailwind CSS. I made this mainly to learn those two, so there's no particular reason on why I picked them.
+Like the description says, this is my attempt in making the front-end for Phansite, a fictional forum web that appears in the JRPG Persona 5. If you're not familiar with the game, Phansite is a forum where people can request for help to the main character (The Phantom Thieves) and talk about the latest scandal/news in Japan. The site itself is made with React and Tailwind CSS. I made this mainly to learn those two, so there's no particular reason on why I picked them. I took a lot of liberties in designing it, so it's not a 1:1 look to the one that's in the game.
 
-**don't forget to install the dependencies!**
+**don't forget to install the dependencies! i also used moments library for this**
 
 ## Features
 There are 3 main features on the web, also based on the game:
@@ -14,3 +14,4 @@ There are more things that I'd love to add to the web, but this is all I can do 
 * Add lazy load
 * polish up the rest of the dummy comments' timestamp (a lot of them were still left empty)
 * make a "this comment is a request" checkbox and marker
+* add any other features that i might left from the game
